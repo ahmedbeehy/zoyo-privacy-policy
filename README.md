@@ -1,14 +1,14 @@
-# ZoYo Privacy Policy
+# ZoYo
 
 Privacy Policy for ZoYo Discord Bot
 
-At ZoYo, accessible from https://zoyo.netlify.app/invite, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by ZoYo and how we use it.
+At **ZoYo**, accessible from https://zoyo.netlify.app/invite, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by **ZoYo** and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
 Storage of User IDs:
 
-At ZoYo, we store user IDs in our database to provide a personalized and enhanced user experience. This information helps us to deliver tailored services, such as tracking individual user progress, managing inventories, and ensuring a seamless interaction within our bot.
+At **ZoYo**, we store user IDs in our database to provide a personalized and enhanced user experience. This information helps us to deliver tailored services, such as tracking individual user progress, managing inventories, and ensuring a seamless interaction within our bot.
 
 Online Privacy Policy Only
 
